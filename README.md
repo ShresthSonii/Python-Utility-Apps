@@ -1,14 +1,14 @@
-# 🐍 Python Utility Apps & Scripts
+# 🐍 Python Utility Apps & AI Experiments
 
-A curated collection of standalone Python scripts, automation utilities, and game modules.
+A collection of Python projects, algorithms, and web service components.
 
 ---
 
-## 📂 Included Scripts
+## 📂 Included Projects
 
-### 1. 🐍 Snake Game (`Snake.py`)
-- Classic Arcade Snake game implemented in Python.
-- Features real-time keyboard control, dynamic score tracking, and collision detection logic.
+### 1. 🎮 AI-Driven Snake Game (`Snake.py` & `Search_algorithms.py`)
+- Classic Snake game implementation powered by pathfinding and search algorithms.
+- Demonstrates algorithmic decision-making and automated movement logic in Python.
 
 ### 2. ⚡ Flask Application Engine (`app.py`)
 - Lightweight REST API boilerplate and web application server setup built with Flask.
